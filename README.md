@@ -108,6 +108,7 @@ If you want to practice curated list of LeetCode problems organized by patterns,
 - [LeetCode Format](https://chromewebstore.google.com/detail/leetcode-format/imogghebhifnnlgogigikjecilkicfpp): Adds Format code button on leetcode to format the code using Prettier code formatter.
 - [LeetHub v2](https://chromewebstore.google.com/detail/leethub-v2/mhanfgfagplhgemhjfeolkkdidbakocm?hl=en): Automatically integrate your Leetcode & GeeksforGeeks submissions to GitHub.
 
+## Others
 - 
 - [LeetCode VS Code Extension](https://marketplace.visualstudio.com/items?itemName=LeetCode.vscode-leetcode): Solve LeetCode problems in VS Code.
 
