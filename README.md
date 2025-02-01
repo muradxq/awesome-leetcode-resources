@@ -14,7 +14,7 @@ If you want to practice curated list of LeetCode problems organized by patterns,
 - [x] [How I Mastered DSA](https://blog.algomaster.io/p/how-i-mastered-data-structures-and-algorithms)
 
 ## 📌 Fundamental Concepts
-- [Algorithmic Complexity](https://blog.algomaster.io/p/57bd4963-462f-4294-a972-4012691fc729)
+- [x] [Algorithmic Complexity](https://blog.algomaster.io/p/57bd4963-462f-4294-a972-4012691fc729)
 - [Big-O Cheat Sheet](https://www.bigocheatsheet.com/)
 - [Bit Manipulation Techniques](https://blog.algomaster.io/p/c650df76-f978-46ee-a572-eb13c354905d)
 - [Sorting Algorithms](https://medium.com/jl-codes/understanding-sorting-algorithms-af6222995c8)
