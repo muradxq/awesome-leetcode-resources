@@ -10,8 +10,8 @@ This repository contains awesome LeetCode resources to learn Data Structures and
 If you want to practice curated list of LeetCode problems organized by patterns, checkout [AlgoMaster.io](https://algomaster.io)
 
 ## 💡 Tips
-- ✅ [How to Start LeetCode](https://blog.algomaster.io/p/how-to-start-leetcode-in-2025)
-- ✅ [How I Mastered DSA](https://blog.algomaster.io/p/how-i-mastered-data-structures-and-algorithms)
+- [02/01] [How to Start LeetCode](https://blog.algomaster.io/p/how-to-start-leetcode-in-2025)
+- [02/01] [How I Mastered DSA](https://blog.algomaster.io/p/how-i-mastered-data-structures-and-algorithms)
 
 ## 📌 Fundamental Concepts
 - [Algorithmic Complexity](https://blog.algomaster.io/p/57bd4963-462f-4294-a972-4012691fc729)
