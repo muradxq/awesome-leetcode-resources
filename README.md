@@ -18,6 +18,7 @@ If you want to practice curated list of LeetCode problems organized by patterns,
 - [x] [Big-O Cheat Sheet](https://www.bigocheatsheet.com/)
 - [x] [Bit Manipulation Techniques](https://blog.algomaster.io/p/c650df76-f978-46ee-a572-eb13c354905d)
 - [Sorting Algorithms](https://medium.com/jl-codes/understanding-sorting-algorithms-af6222995c8)
+  -[sort.py](https://github.com/muradxq/leet-1337-code/blob/main/code/sort.py)    
 - [Linked List](https://leetcode.com/discuss/study-guide/1800120/become-master-in-linked-list)
   - [Dummy Node Technique](https://blog.algomaster.io/p/5d7a1368-7a0c-461a-93a9-732333ceb2a8)
 - [Queues](https://medium.com/basecs/to-queue-or-not-to-queue-2653bcde5b04)
